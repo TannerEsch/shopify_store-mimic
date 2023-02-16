@@ -1,11 +1,17 @@
 TECHNOLOGIES USED
 ------------------
 React
+
 MongoDB
+
 Vite
+
 TailwindCSS
+
 Express
+
 HTML
+
 OpenAI's API
 
 FRONT PAGE
