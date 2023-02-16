@@ -1,4 +1,3 @@
-#Dall-e clone
 
 FRONT PAGE
 -------------------
