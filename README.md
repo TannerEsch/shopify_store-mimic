@@ -5,6 +5,7 @@ TECHNOLOGIES USED
 - Javascript/JSX
 - Flask
 - PostgreSQL
+-SQLAlchemy
 - Tailwind
 - HTML
 - CSS
