@@ -1,0 +1,22 @@
+.product-card-container {
+    width: fit-content;
+    height: fit-content;
+    background-color: #f7f7f7;
+}
+
+.product-card-wrapper {
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid black;
+    background-color: white;
+    background-color: #e7e7e7;
+}
+
+.product-card-wrapper:hover {
+    height: 80vh;
+}
+
+.item-photo {
+    height: 60vh;
+    width: 25vw;
+}
